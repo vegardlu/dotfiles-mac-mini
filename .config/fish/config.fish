@@ -1,5 +1,8 @@
-# Fish alias
-source ~/.config/fish/alias.fish
+# Fish
+
+set PATH /opt/homebrew/bin /opt/homebrew/sbin /usr/local/bin /usr/bin /bin /usr/sbin /sbin /usr/local/bin /usr/bin /bin /usr/sbin /sbin $PATH
+
+set fish_greeting
 
 # Fish syntax highlighting
 set -g fish_color_autosuggestion '555'  'brblack'
